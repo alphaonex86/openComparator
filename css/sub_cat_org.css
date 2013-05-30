@@ -1,0 +1,46 @@
+.block_filter{float:left;width:218px;margin-left:5px;overflow:hidden;}
+.block_filter input{background-color:#fff;height:14px;border:1px solid #bbb;}
+.block_filter input:hover{background-color:#f7f7ff;border-color:#999;}
+select{background-color:#fff;height:18px;border:1px solid #bbb;}
+.num{width:50px;}
+.val{width:164px;}
+.full{width:190px;}
+.block_filter select:hover{background-color:#f7f7ff;border-color:#999;}
+.title_mark{border-bottom:1px solid #999;font-size:16px;font-weight:bold;color:#459;padding:2px 5px;clear:both;text-transform:uppercase;}
+.product_list{clear:both;}
+.product_preview{height:70px;padding:4px 0;clear:both;}
+.product:hover{background-color:#fcc;}
+.product_div{margin:5px 5px;}
+.product_text{width:500px;float:left;}
+.product_text2{height:32px;overflow:hidden;font-weight:bold;}
+.product_preview .product_text{font-weight:bold;}
+.product_note{width:90px;}
+.product_list .product_note{float:left;}
+.product_list .product_price{width:150px}
+.product_preview .block_right{width:110px;height:70px;float:right;}
+.product_image{float:left;width:217px;height:250px;background-color:#fff;margin:2px;overflow:hidden;border:1px solid #ddd;text-align:center;vertical-align:middle;}
+.product_image:hover{background-color:#fff}
+.product_image .price{font-size:20px;color:#b00;}
+.product_image .price_list{font-size:12px;font-style:italic;color:#b00;}
+.product_price{float:right;text-align:right;}
+.product_price2{font-size:16px;font-weight:bold;}
+.product_price_text .product_note{float:right;}
+.product_boutique{width:140px;float:right;text-align:right;}
+.html_extra{height:48px;}
+.comp{background:url('/images/back.png');position:fixed;width:100%;height:100%;left:0;top:0;}
+.comp_i{position:fixed;height:400px;width:950px;background:url('/images/front.png');left:50%;top:50%;margin-left:-480px;margin-top:-200px;padding:5px;vertical-align:middle;}
+.fake_link{color:#339;text-decoration:none;cursor:pointer;}
+.fake_link:hover{color:#a11;}
+.compb{background-color:#eee;border:1px solid #bbb;clear:both;}
+.compb:hover{background-color:#f7f7ff;border-color:#999;}
+.tabcomp{margin:auto;overflow:auto;}
+.tdcomp{text-align:center;}
+.tdcompB{text-align:center;}
+.altern_true{background-color:#eee;}
+.altern_false{background-color:#fff;}
+.altern_true .tdcompB{background-color:#cde;}
+.altern_false .tdcompB{background-color:#def;}
+#price_min{width:40px;}
+#price_max{width:40px;}
+#cont{overflow:auto;height:380px;width:930px;}
+.product_text .product_note{float:right;}

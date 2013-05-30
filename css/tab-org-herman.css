@@ -1,0 +1,10 @@
+.altern_true{background-color:#eee;}
+.altern_false{background-color:#fff;}
+.table_tab1{width:170px;border-bottom:1px solid #cdf;}
+.table_tab2{width:170px;border-bottom:1px solid #cdf;}
+.table_tab3{width:170px;border-bottom:1px solid #cdf;}
+.table_tab4{width:170px;border-bottom:1px solid #cdf;}
+.acomment{width:100%;background-color:#efe;border-top:1px solid #797;}
+.hcomment{width:100%;background-color:#eef;border-top:1px solid #779;}
+.ycomm img{vertical-align:middle;}
+.g{max-height:200px;overflow:auto;}
